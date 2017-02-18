@@ -1,4 +1,4 @@
-# Vagrant CentOS 7 Environment
+# Vagrant CentOS 7 Environment with Chef provisiover
 
 ### Desciprion
 
